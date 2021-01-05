@@ -1,14 +1,16 @@
 ### Hi there, I'm Sam 👋
 
 🔭 I’m currently working on 3rd party API content driven websites
+
 🌱 I’m currently learning full stack web development
+
 😄 Pronouns: he/him
+
 📫 How to reach me: via me profile's email
+
 👯 I’m looking to collaborate on recent grad startups
+
 ⚡ Fun fact: I'm a triplet...
-
-
-
 
 <!-- Example
 Hey there, I'm Benjie 👋
