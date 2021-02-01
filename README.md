@@ -10,7 +10,7 @@
 
 👯 I’m looking to collaborate on recent grad startups
 
-⚡ Fun fact: I'm a triplet...
+⚡ Fun fact: I'm a triplet!
 
 <!-- Example
 Hey there, I'm Benjie 👋
