@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on 3rd party API content driven websites
 
-🌱 I’m currently learning full stack web development
+🌱 I’m continuously exploring full stack web development
 
 😄 Pronouns: he/him
 
