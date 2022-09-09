@@ -10,8 +10,6 @@
 
 👯 I’m looking to collaborate on recent grad startups
 
-⚡ Fun fact: I'm a triplet!
-
 <!-- Example
 Hey there, I'm Benjie 👋
 I'm a community-funded open source developer working on GraphQL-, PostgreSQL- and Node.js-related projects. Sponsorship from awesome individuals, startups and companies like you helps me spend more time on OSS.
