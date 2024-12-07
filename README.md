@@ -1,13 +1,5 @@
 ### Hi there, I'm Sam 👋
 
-🔭 I’m currently working on 3rd party API content driven websites.
-
-🌱 I’m continuously exploring full stack web development
-
-😄 Pronouns: he/him
-
-📫 How to reach me: via me profile's email
-
 <!-- Example
 Hey there, I'm Benjie 👋
 I'm a community-funded open source developer working on GraphQL-, PostgreSQL- and Node.js-related projects. Sponsorship from awesome individuals, startups and companies like you helps me spend more time on OSS.
